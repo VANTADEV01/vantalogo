@@ -1,7 +1,7 @@
 # ⌁ PROJETO V.A.N.T.A.
 > Virtualized Anomalous Neural Transmission Architecture
 
-> ❝ Aquilo que não pode ser dito, pode ser transmitido. ❞
+> ❝ A mente não precisa consentir para ser acessada. ❞
 
 ---
 
